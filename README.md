@@ -16,7 +16,7 @@ Android版为什么不使用官方的_cordova-plugin-geolocation_插件
 请参照：申请密钥Android定位SDK
 
 二，安装插件
-cordova plugin add *.git --variable API_KEY=your key
+cordova plugin add https://github.com:karoline97/GaoDeLocation.git --variable API_KEY=your key
 
 三，使用方法
 // 进行定位
